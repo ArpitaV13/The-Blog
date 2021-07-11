@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My frst book",
+      "author": "Arpita",
+      "body": "Blah blah blahhhhhhhh fdyudhx ytddjhe yusgihfiefj",
+      "id": 1
+    },
+    {
+      "title": "My frst pen",
+      "author": "Anshul",
+      "body": "Blah blah blahhhhhhhh fdyudhx ytddjhe yusgihfiefj",
+      "id": 2
+    },
+    {
+      "title": "My frst pal",
+      "author": "riddhi",
+      "body": "Blah blah blahhhhhhhh fdyudhx ytddjhe yusgihfiefj",
+      "id": 3
+    }
+  ]
+}
